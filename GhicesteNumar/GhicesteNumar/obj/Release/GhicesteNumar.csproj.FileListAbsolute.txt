@@ -1,0 +1,5 @@
+C:\Users\klaut\source\repos\GhicesteNumar\GhicesteNumar\bin\Release\GhicesteNumar.exe.config
+C:\Users\klaut\source\repos\GhicesteNumar\GhicesteNumar\bin\Release\GhicesteNumar.exe
+C:\Users\klaut\source\repos\GhicesteNumar\GhicesteNumar\bin\Release\GhicesteNumar.pdb
+C:\Users\klaut\source\repos\GhicesteNumar\GhicesteNumar\obj\Release\GhicesteNumar.exe
+C:\Users\klaut\source\repos\GhicesteNumar\GhicesteNumar\obj\Release\GhicesteNumar.pdb

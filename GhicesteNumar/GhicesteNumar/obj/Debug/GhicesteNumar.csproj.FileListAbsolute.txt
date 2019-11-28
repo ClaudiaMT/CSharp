@@ -1,0 +1,6 @@
+C:\Users\klaut\source\repos\GhicesteNumar\GhicesteNumar\bin\Debug\GhicesteNumar.exe.config
+C:\Users\klaut\source\repos\GhicesteNumar\GhicesteNumar\bin\Debug\GhicesteNumar.exe
+C:\Users\klaut\source\repos\GhicesteNumar\GhicesteNumar\bin\Debug\GhicesteNumar.pdb
+C:\Users\klaut\source\repos\GhicesteNumar\GhicesteNumar\obj\Debug\GhicesteNumar.csprojAssemblyReference.cache
+C:\Users\klaut\source\repos\GhicesteNumar\GhicesteNumar\obj\Debug\GhicesteNumar.exe
+C:\Users\klaut\source\repos\GhicesteNumar\GhicesteNumar\obj\Debug\GhicesteNumar.pdb
